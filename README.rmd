@@ -1,1 +1,5 @@
 # COMPUTER NETWORKS
+-----------------------------
+9A - distancvector.tcl
+9B - Linkestaterouting.tcl
+10 - CRC.java
