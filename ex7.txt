@@ -1,0 +1,4 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install ns2 nam -y
+sudo gedit ex.tcl
+ns ex.tcl
